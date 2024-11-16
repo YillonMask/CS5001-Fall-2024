@@ -1,0 +1,9 @@
+newmtl processed_mesh
+Ka .0000000 .0000000 0.0000000
+Kd 1.000000 1.000000 1.000000
+Ks 0 0 0
+Tr .5
+illum 1
+Ns 0
+map_Ka processed_mesh.png
+map_Kd processed_mesh.png
